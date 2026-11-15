@@ -1,0 +1,5 @@
+python 3.13.14  
+numpy 2.5.2
+gymansium 0.29.1
+stable_baselines3 2.9.2
+simglucose 0.2.11
